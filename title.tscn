@@ -80,7 +80,7 @@ margin_top = 522.0
 margin_right = 729.0
 margin_bottom = 581.0
 theme = ExtResource( 1 )
-text = "Begin"
+text = "시작"
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -92,10 +92,10 @@ margin_right = 760.0
 margin_bottom = 475.0
 custom_fonts/normal_font = SubResource( 1 )
 bbcode_enabled = true
-bbcode_text = "[center]Alex Thorley Goes on a
-Blind Date.[/center]"
-text = "Alex Thorley Goes on a
-Blind Date."
+bbcode_text = "[center]알렉스 톨리가 
+소개팅에 나가다.[/center]"
+text = "알렉스 톨리가
+소개팅에 나가다."
 __meta__ = {
 "_edit_use_anchors_": false
 }
