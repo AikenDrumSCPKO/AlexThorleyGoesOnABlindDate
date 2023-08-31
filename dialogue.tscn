@@ -1,7 +1,7 @@
 [gd_scene load_steps=6 format=2]
 
 [ext_resource path="res://Code/FlavorText.gd" type="Script" id=1]
-[ext_resource path="res://Resources/ATypewriterForMe.ttf" type="DynamicFontData" id=2]
+[ext_resource path="res://Resources/GangwonEdu_OTF.ttf" type="DynamicFontData" id=2]
 [ext_resource path="res://Sprites/dialoguebox1.png" type="Texture" id=3]
 
 [sub_resource type="DynamicFont" id=1]
