@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=2]
 
-[ext_resource path="res://Resources/ATypewriterForMe.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://Resources/GangwonEdu_OTF.ttf" type="DynamicFontData" id=1]
 [ext_resource path="res://Code/Credits.gd" type="Script" id=2]
 
 [sub_resource type="DynamicFont" id=1]
@@ -56,44 +56,48 @@ margin_right = 759.0
 margin_bottom = 2977.98
 custom_fonts/normal_font = SubResource( 1 )
 bbcode_enabled = true
-bbcode_text = "[center]Restaurant Music is Jazz Background Music Loop by Migfus20 (CC-BY)
+bbcode_text = "[center]레스토랑 음악은 Migfus20의 Jazz Background Music Loop입니다. (CC-BY)
 
-Crosswalk Music is Jazz Background Music Loop by Migfus20 (CC-BY)
+교차로 음악은 Migfus20의 Jazz Background Music Loop입니다. (CC-BY)
 
-(Both had the same name, they were a part of a pack called \"You like some Jazz\")
+(두 음악은 이름이 같습니다. 둘 다 \"You like some Jazz\"라는 팩에 수록되어있습니다.)
 
-Bedroom Music is Mysterious Piano Music Loop by Migfus20 (CC-BY)
+침실 음악은 Migfus20의 Mysterious Piano Music Loop입니다. (CC-BY)
 
-Font is A Typewriter For Me by Zachary Lucier (Public Domain)
+폰트는 Zachary Lucier의 A Typewriter For Me (퍼블릭 도메인)이었으나 번역을 위해 강원교육모두체 (금전적 이용 가능)이 되었습니다.
 
-Thank you to Fishish and Uncle Nicolini for critique.
+Fishish님과 Uncle Nicolini님의 비평 감사합니다.
 
-Game is by
+Aiken Drum이 한국어로 번역했습니다. Cubic72님, XCninety님의 번역 비평 감사합니다.
+
+게임 제작자
 IronShears
 
 
 
 
-Gift Exchange 2022 for syuzhet :)[/center]"
-text = "Restaurant Music is Jazz Background Music Loop by Migfus20 (CC-BY)
+syuzhet을 위한 2022년 작품교환 작품 :)[/center]"
+text = "레스토랑 음악은 Migfus20의 Jazz Background Music Loop입니다. (CC-BY)
 
-Crosswalk Music is Jazz Background Music Loop by Migfus20 (CC-BY)
+교차로 음악은 Migfus20의 Jazz Background Music Loop입니다. (CC-BY)
 
-(Both had the same name, they were a part of a pack called \"You like some Jazz\")
+(두 음악은 이름이 같습니다. 둘 다 \"You like some Jazz\"라는 팩에 수록되어있습니다.)
 
-Bedroom Music is Mysterious Piano Music Loop by Migfus20 (CC-BY)
+침실 음악은 Migfus20의 Mysterious Piano Music Loop입니다. (CC-BY)
 
-Font is A Typewriter For Me by Zachary Lucier (Public Domain)
+폰트는 Zachary Lucier의 A Typewriter For Me (퍼블릭 도메인)이었으나 번역을 위해 강원교육모두체 (금전적 이용 가능)이 되었습니다.
 
-Thank you to Fishish and Uncle Nicolini for critique.
+Fishish님과 Uncle Nicolini님의 비평 감사합니다.
 
-Game is by
+Aiken Drum이 한국어로 번역했습니다. Cubic72님, XCninety님의 번역 비평 감사합니다.
+
+게임 제작자
 IronShears
 
 
 
 
-Gift Exchange 2022 for syuzhet :)"
+syuzhet을 위한 2022년 작품교환 작품 :)"
 __meta__ = {
 "_edit_use_anchors_": false
 }
